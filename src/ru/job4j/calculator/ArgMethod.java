@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax.calculator;
+package ru.job4j.calculator;
 
 public class ArgMethod {
     public static void print(String name) {

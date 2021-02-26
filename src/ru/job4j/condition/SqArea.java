@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax.condition;
+package ru.job4j.condition;
 /*
  8. Стороны прямоугольника. [#393744]
  В нашей задаче существуют два уравнения и нам нужно найти две неизвестных.

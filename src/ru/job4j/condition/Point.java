@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax.condition;
+package ru.job4j.condition;
 
 /* 7. Расстояние между точками в системе координат [#393755] */
 // d = sqrt((x2 - x1)^2 + (y2 - y1^2));

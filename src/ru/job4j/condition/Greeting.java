@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax.condition;
+package ru.job4j.condition;
 /* 9.1. String [#393751] */
 public class Greeting {
     public static void main(String[] args) {

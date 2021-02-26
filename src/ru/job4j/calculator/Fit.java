@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax.calculator;
+package ru.job4j.calculator;
 /*
 * 6. Идеальный вес [#393741]
 * Идеальный вес для мужчин = (рост в сантиметрах – 100) · 1,15.

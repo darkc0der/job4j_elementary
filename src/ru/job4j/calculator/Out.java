@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax.calculator;
+package ru.job4j.calculator;
 /* 9.1. String [#393751] */
 
 public class Out {

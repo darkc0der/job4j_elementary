@@ -1,4 +1,4 @@
-package ru.job4j.block_one_basic_syntax;
+package ru.job4j;
 
 public class Info {
     public static void main(String[] args) {
