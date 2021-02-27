@@ -1,7 +1,5 @@
 package ru.job4j.converter;
 
-import java.text.DecimalFormat;
-
 public class Converter {
     public static double rubleToEuro(double value) {
         double res = (value / 89);
