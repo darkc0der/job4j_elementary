@@ -1,4 +1,5 @@
 package ru.job4j.array;
+/* 6.4. Слово начинается с ... [#393710] */
 
 public class ArrayChar {
     public static boolean startWith(char[] word, char[] pref) {
